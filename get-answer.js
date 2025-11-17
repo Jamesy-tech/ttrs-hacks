@@ -1,3 +1,5 @@
+// Use this as a bookmarklet or paste it in the console (works with BookUI)
+
 javascript:(() => {
 
     const num1El = document.querySelector('.mx-1.ng-star-inserted[data-qa-left]');
