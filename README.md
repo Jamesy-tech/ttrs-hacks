@@ -1,5 +1,7 @@
 # For Educational Purposes Only
 
+Note: uhhh so recently ttrs just changed back their website to the classic one, I don't know why, maybe there was a bug or something and they had to revert it, but currently my script doesn't work... hopefully they'll change it back to the new one soon
+
 This bookmarklet was made for **educational purposes**.  
 It demonstrates how to grab elements from a page, read their content, perform calculations, and update the page dynamically.  
 Use it responsibly and do not use it to gain unfair advantages.
